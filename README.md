@@ -1,4 +1,4 @@
-<div align="center" width=80%>
+<div align="center" width=70%>
     <img src="https://imgs.search.brave.com/xzjA0U2hs9QKEWfqgwa-7-IxCWMAD1FI2u3vnY0Uek8/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL2RXZXNC/Y1RMYXZrWnVHMzVN/SS9zb3VyY2UuZ2lm.gif" width="100%" height="400px" />
 </div>
 <h1 align="center">Hi 👋, I'm Prabhat Kumar Gupta</h1>
