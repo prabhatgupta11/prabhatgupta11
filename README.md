@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **node,express,mongoDB**
 
-- 👨‍💻 All of my projects are available at [https://prabhatgupta11.github.io](https://prabhatgupta11.github.io)
+- 👨‍💻 All of my projects are available at [https://prabhatgupta11.github.io/](https://prabhatgupta11.github.io/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,node,express,mongoDB**
 
