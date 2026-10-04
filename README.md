@@ -1,40 +1,89 @@
-<div align="center">
+Prabhat Gupta — GitHub Profile README
+Full Stack Engineer | Backend & Cloud | AI / GenAI
+Portfolio: https://prabhatgupta11.github.io/
+LinkedIn: https://linkedin.com/in/prabhat-gupta-7aaa83248/
+Email: prabhatgupta0002@gmail.com
+About Me
+I'm a Full Stack Engineer with 3+ years of professional experience, focused on building scalable backend systems, cloud infrastructure, and AI-powered applications.
+I enjoy solving real-world engineering problems across Backend Engineering, System Design, Cloud Infrastructure, and Generative AI.
 
-<img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="100%" alt="Developer Animation"/>
 
-<br/>
+Currently focused on
+🤖 LLMs, RAG & Agentic AI
+⚙️ Scalable backend architectures
+☁️ AWS & cloud infrastructure
+🏗️ System design & distributed systems
+🚀 Building and shipping real-world products
+Tech Stack
+💻 Languages
+JavaScript • TypeScript • Python
+⚙️ Backend
+Node.js • Express • Fastify • Prisma
+🎨 Frontend
+React • Next.js • HTML • CSS
+🗄️ Databases & Storage
+PostgreSQL • MongoDB • MySQL • Redis
+☁️ Cloud & DevOps
+AWS • Docker • Kubernetes • Git • GitHub
+🤖 AI / GenAI
+LLMs • RAG • LangChain • LangGraph • Qdrant • Embeddings
+Featured Projects
+👔 Groommx
+Your Personal AI Stylist
+An AI-powered fashion platform that helps users make better outfit decisions using their wardrobe, preferences, weather, occasions and calendar.
+✨ Features
+👕 Virtual wardrobe
+🤖 AI-powered outfit recommendations
+👗 Virtual try-on
+🌦️ Weather-aware recommendations
+📅 Occasion & calendar-based suggestions
+💬 AI fashion assistant
+🧳 Travel packing recommendations
+👯 Twinning recommendations
+🏗️ Architecture
 
-# 👋 Hi, I'm Prabhat Gupta
 
-### Full Stack Engineer | Backend & Cloud | AI / GenAI
+Tech: React Native • Node.js • MongoDB • PostgreSQL • pgvector • RAG • Claude • OpenAI
+Visit Groommx → https://groommx.com
+🧠 SupportIQX
+AI Support-to-Engineering Intelligence Platform
+An AI platform designed to transform engineering conversations, project data and incidents into actionable engineering intelligence.
+🔌 Integrations
+Slack • Jira • Notion • Linear • GitHub • Incidents
+🏗️ Architecture
 
-<p>
-  <a href="https://prabhatgupta11.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-111827?style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/prabhat-gupta-7aaa83248/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:prabhatgupta0002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=prabhatgupta11&label=Profile%20Views&style=flat-square" />
+Tech: Node.js • React • LangGraph • RAG • Qdrant • MongoDB • PostgreSQL
+⚡ Engineering Impact
+I focus on measurable improvements, performance, reliability, and production scalability.
 
-</div>
+🤖 AI Engineering
+I focus on building production-oriented AI systems, not just prompt experiments.
+🔍 RAG
 
----
 
-## 👨‍💻 About Me
+🧠 Agentic AI
 
-I'm a **Full Stack Engineer with 3+ years of professional experience**, focused on building scalable backend systems, cloud infrastructure, and AI-powered applications.
 
-I enjoy solving real-world engineering problems across **Backend Engineering, System Design, Cloud Infrastructure, and Generative AI**.
+🔬 Areas of Interest
+RAG • Agentic AI • LLMs • Embeddings • Semantic Search • Tool Calling • AI Agents • Vector Databases
+☁️ Cloud & Infrastructure
 
-```text
-Backend Engineering  → APIs • Architecture • Databases • Caching
-Cloud & DevOps       → AWS • Docker • Kubernetes • Monitoring
-AI / GenAI           → LLMs • RAG • Agents • Embeddings
-Full Stack           → React • Next.js • Node.js • TypeScript
-Performance          → Query Optimization • Redis • Scalability
+
+📊 GitHub Stats
+GitHub Stats: https://github-readme-stats.vercel.app/api?username=prabhatgupta11&show_icons=true&hide_border=true&theme=tokyonight&count_private=true
+Top Languages: https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatgupta11&layout=compact&hide_border=true&theme=tokyonight
+GitHub Streak: https://github-readme-streak-stats.herokuapp.com/?user=prabhatgupta11&theme=tokyonight&hide_border=true
+🐍 Contribution Activity
+Dark: https://raw.githubusercontent.com/prabhatgupta11/prabhatgupta11/output/github-contribution-grid-snake-dark.svg
+Light: https://raw.githubusercontent.com/prabhatgupta11/prabhatgupta11/output/github-contribution-grid-snake.svg
+🎯 What I Like Building
+
+
+🤝 Let's Connect
+I'm interested in conversations around:
+Backend Engineering · System Design · AI/GenAI · LLMs · RAG · Cloud · Startups
+LinkedIn: https://linkedin.com/in/prabhat-gupta-7aaa83248/
+Portfolio: https://prabhatgupta11.github.io/
+Email: prabhatgupta0002@gmail.com
+⚡ Build · Ship · Learn · Repeat
