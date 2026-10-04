@@ -1,312 +1,34 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Prabhat%20Gupta&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Backend%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20AI%2FGenAI&descAlignY=58&descSize=20" width="100%"/>
-
-### Building scalable systems & AI-powered products 🚀
-
-<p>
-  <a href="https://prabhatgupta11.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/prabhat-gupta-7aaa83248/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:prabhatgupta0002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=prabhatgupta11&label=Profile%20Views&color=2563EB&style=flat-square" />
-
+<div align="center" width=100%>
+    <img src="https://imgs.search.brave.com/xzjA0U2hs9QKEWfqgwa-7-IxCWMAD1FI2u3vnY0Uek8/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL2RXZXNC/Y1RMYXZrWnVHMzVN/SS9zb3VyY2UuZ2lm.gif" width="80%" height="350px" />
 </div>
+<h1 align="center">Hi 👋, I'm Prabhat Kumar Gupta</h1>
+<h3 align="center">Passionate Full Stack Web Developer</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatgupta11&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatgupta11" /> </p>
 
-## 👨‍💻 About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatgupta11" alt="prabhatgupta11" /></a> </p>
 
-I'm a **Full Stack Engineer with 3+ years of professional experience**, focused on building reliable backend systems, cloud infrastructure, and AI-powered applications.
+- 🌱 I’m currently learning **node,express,mongoDB**
 
-I enjoy working at the intersection of **backend engineering and AI**, turning complex product requirements into scalable, production-ready systems.
+- 👨‍💻 All of my projects are available at <a href="https://prabhatgupta11.github.io/">Portfolio</a>
 
-```text
-⚡ Backend Engineering       → APIs • Architecture • Databases • Caching
-☁️ Cloud & Infrastructure   → AWS • Docker • Kubernetes • Monitoring
-🤖 AI / GenAI               → LLMs • RAG • Agents • Embeddings
-🎨 Full Stack               → React • Next.js • Node.js • TypeScript
-📊 Performance              → Query Optimization • Redis • Scalability
-```
+- 💬 Ask me about **HTML,CSS,JavaScript,node,express,mongoDB**
 
-### Currently focused on
+- 📫 How to reach me **prabhatgupta0002@gmail.com**
 
-* 🧠 **LLM applications, RAG & Agentic AI**
-* ⚙️ **High-performance backend systems**
-* ☁️ **AWS & cloud infrastructure**
-* 🏗️ **System design & distributed systems**
-* 🚀 Building and shipping real-world products
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uoOpaBuoLbR8q5SSHSvsrUoX9z8C5JdA/view?usp=share_link](https://drive.google.com/file/d/1uoOpaBuoLbR8q5SSHSvsrUoX9z8C5JdA/view?usp=share_link)
 
----
-
-# 🧰 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/prabhat-gupta-7aaa83248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhat-gupta-7aaa83248/" height="30" width="40" /></a>
+<a href="https://instagram.com/prabhat____gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabhat____gupta/" height="30" width="40" /></a>
 </p>
 
-### Backend
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,prisma" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatgupta11&show_icons=true&locale=en&layout=compact" alt="prabhatgupta11" /></p>
 
-### Frontend
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatgupta11&show_icons=true&locale=en" alt="prabhatgupta11" /></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
-</p>
-
-### Databases & Storage
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" />
-</p>
-
-### AI / GenAI
-
-<p>
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-D85A3A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Embeddings-2563EB?style=for-the-badge&logoColor=white" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 👔 Groommx
-
-### Your Personal AI Stylist
-
-An AI-powered fashion platform that helps users make better outfit decisions using their wardrobe, preferences, weather and occasions.
-
-**What I built**
-
-* 👕 Virtual wardrobe management
-* 🤖 AI-powered outfit recommendations
-* 👗 Virtual try-on
-* 🌦️ Weather-aware recommendations
-* 📅 Occasion & calendar-based suggestions
-* 💬 AI fashion assistant
-* 🧳 Travel packing recommendations
-* 👯 Twinning recommendations
-
-**Architecture**
-
-```text
-React Native
-      ↓
-Node.js API Layer
-      ↓
-MongoDB + PostgreSQL
-      ↓
-Vector Search / RAG
-      ↓
-LLM Layer
-      ↓
-Personalized AI Response
-```
-
-**Tech:** `React Native` `Node.js` `MongoDB` `PostgreSQL` `pgvector` `RAG` `Claude` `OpenAI`
-
-🌐 **[Visit Groommx →](https://groommx.com)**
-
----
-
-## 🧠 SupportIQX
-
-### AI Support-to-Engineering Intelligence Platform
-
-An AI platform designed to transform engineering conversations, project data and incidents into actionable engineering intelligence.
-
-**Data sources**
-
-```text
-Slack
-Jira
-Notion
-Linear
-GitHub
-Incidents
-   ↓
-ETL / Chunking
-   ↓
-Embeddings
-   ↓
-Qdrant + MongoDB
-   ↓
-RAG + Tool Calling
-   ↓
-LangGraph
-   ↓
-Node.js Gateway
-   ↓
-React Dashboard
-```
-
-**Tech:** `Node.js` `React` `LangGraph` `RAG` `Qdrant` `MongoDB` `PostgreSQL`
-
----
-
-# 🏗️ Engineering Experience
-
-Some areas I've worked deeply on:
-
-### ⚡ Backend Performance
-
-* Optimized database workloads and query performance
-* Reduced database load significantly through query optimization
-* Implemented Redis caching strategies
-* Designed APIs for high-volume transaction workflows
-
-### ☁️ AWS & Infrastructure
-
-* AWS EC2
-* RDS
-* S3
-* Lambda
-* SQS
-* EventBridge
-* EKS
-* CloudWatch
-* Docker
-
-### 📊 Observability
-
-* Grafana
-* Metabase
-* CloudWatch
-* Application & infrastructure monitoring
-* Production performance analysis
-
-### 💳 FinTech Systems
-
-Worked on payment and investor transaction workflows involving:
-
-* Payment gateways
-* Transaction processing
-* Reconciliation
-* Monitoring
-* Production reliability
-
----
-
-# 🤖 AI Engineering
-
-My current AI focus is building **production-ready LLM applications**, not just experimenting with prompts.
-
-```text
-                 ┌───────────────┐
-                 │   User Query  │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │ Query Router  │
-                 └───────┬───────┘
-                         ↓
-              ┌──────────┴──────────┐
-              ↓                     ↓
-        Vector Search          Tool Calling
-              ↓                     ↓
-           Qdrant              External APIs
-              ↓                     ↓
-              └──────────┬──────────┘
-                         ↓
-                  ┌─────────────┐
-                  │     LLM     │
-                  └──────┬──────┘
-                         ↓
-                  Final Response
-```
-
-### Areas of interest
-
-`RAG` · `Agentic AI` · `LLM Routing` · `Embeddings` · `Semantic Search` · `Tool Calling` · `Multi-Agent Systems` · `AI APIs`
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=prabhatgupta11&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatgupta11&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatgupta11&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhatgupta11&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-# 🧠 What I Believe
-
-> **Good engineering isn't just about making things work.
-> It's about making them scalable, observable, maintainable and useful.**
-
----
-
-# 🤝 Let's Connect
-
-I'm open to conversations around:
-
-**Backend Engineering · System Design · AI/GenAI · LLMs · RAG · Cloud · Startups**
-
-<div align="center">
-
-<a href="https://linkedin.com/in/prabhat-gupta-7aaa83248/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://prabhatgupta11.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:prabhatgupta0002@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⚡ Build → Ship → Learn → Repeat
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatgupta11&" alt="prabhatgupta11" /></p>
